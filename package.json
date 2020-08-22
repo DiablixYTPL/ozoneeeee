@@ -1,0 +1,17 @@
+{
+  "name": "ozonebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "install": "^0.13.0",
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zmien sobie",
+  "license": "ISC",
+  "description": ""
+}
